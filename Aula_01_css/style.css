@@ -6,9 +6,11 @@ width: 500px;
 .header .container{height: 50%; 
 width: 50%; 
 float: left;
+background-color:#008000
 }
 
-.header .container .dentro{background-color:#e61111d8; 
+.header .container .dentro{
+background-color:#e61111d8; 
 color:#ffffff; 
 font-size: 25px; 
 font-family: monospace; 
